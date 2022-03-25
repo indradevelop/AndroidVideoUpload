@@ -3,6 +3,9 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 
+//github key
+//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
+
 android {
     compileSdk 31
 
